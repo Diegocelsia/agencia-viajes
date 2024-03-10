@@ -46,5 +46,3 @@ const flightPath = {
   .addIndicators()
   .setPin('.animation')
   .addTo(controller)
-  
-  console.log('Paper plane image from pngtree.com')
